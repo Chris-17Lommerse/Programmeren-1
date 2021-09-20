@@ -1,0 +1,42 @@
+body { 
+    background-image: url("77835028-blauwe-geometrische-abstracte-achtergrond-vector-trendy-grafisch-ontwerp-flyer-brochure-lay-outs-sja.jpg");
+}
+/* Style the header */
+.header {
+  background-color: gold;
+  padding: 20px;
+  text-align: center;
+  border-style: solid;
+  border-width: 5px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+
+
+
+
+
+
+
