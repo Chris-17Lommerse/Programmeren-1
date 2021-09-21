@@ -1,0 +1,123 @@
+body {
+  border: 1px solid darkblue;
+
+    margin: 0 auto;
+    background-color: white;
+    width: 800px;
+    height: 170px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+   .back {
+   background-color: lightsteelblue;
+   
+   }
+
+  /* Style the header */
+  .header {
+    background-color:lightsteelblue;
+    padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  /* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: darkblue;
+    width: 800px;
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+    float: left;
+    display: block;
+    color: lightgray;
+    text-align: center;
+    margin-left: 8.5%;
+    padding: 14px 15px;
+    text-decoration: none;
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color: darkblue;
+    font-weight: bold;
+    color: white;
+  }
+ .header {
+  border-style: solid;
+  border-width: 2px;
+  width: 800px;
+  text-align: center;
+  border: 1px solid darkblue;
+}
+img {
+margin-left: 660px;
+padding-top: 0px;
+width: 120px;
+height: 120px;
+} 
+
+.box1 {
+height: fit-content;
+border-width: 800px;
+border: 1px solid blue;
+}
+/* Change color on hover */
+.box1:hover {
+  background-color: darkcyan;
+}
+.box2 {
+height: fit-content;
+border-width: 800px;
+border: 1px solid blue;
+}
+
+.box3 {
+height: fit-content;
+border-width: 800px;
+border: 1px solid blue;
+}
+
+.box4 {
+  height: fit-content;
+  border-width: 800px;
+  border: 1px solid blue;
+}
+
+.box5 {
+  height: 150px;
+  border-width: 800px;
+  border: 1px solid blue;
+}
+
+#koffie1 { 
+position: absolute;
+top: 30%;
+left: 17.5%;
+}
+#huis {
+position: absolute;
+top: 55%;
+left: 17.5%;
+}
+#barbecue1 {
+position: absolute;
+top: 75%;
+left: 17.5%;
+}
+#koffie2 {
+position: absolute; 
+top: 100%;
+left: 17.5%;
+}
+#barbecue2 {
+ position: absolute; 
+ top: 122.5%;
+ left: 17.5%;
+}
+.text {
+margin-right: 150px
+}
+
